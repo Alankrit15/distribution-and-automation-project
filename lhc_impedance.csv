@@ -1,0 +1,8 @@
+22,H6,LHC_block,0.203,0.1034
+23,LHC_block,MCA_Deptt,0.2842,0.1447
+24,MCA_Deptt,SCOE,1.059,0.9337
+25,SCOE,Applied_mechanics_block,0.8042,0.7006
+26,Applied_mechanics_block,Civil_Deptt,0.5075,0.2585
+27,Civil_Deptt,Electrical_Deptt,0.9744,0.963
+28,Electrical_Deptt,Road_lighting,0.3105,0.3619
+29,Road_lighting,Senate_hall,0.341,0.5302
